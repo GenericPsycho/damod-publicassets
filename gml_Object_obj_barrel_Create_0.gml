@@ -1,9 +1,0 @@
-hsp = 0
-vsp = 0
-grav = 0.5
-grounded = false
-active = true
-depth = 2
-platformid = noone
-hsp_carry = 0
-vsp_carry = 0
